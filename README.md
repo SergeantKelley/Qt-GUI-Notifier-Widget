@@ -2,7 +2,7 @@
 
 Animated messages appearing on the right side of the screen. 
 
-Usage Example:
+## Usage Example:
 
 PushNotifier* notifier = new PushNotifier("Hello Qt!", 500, this); // create widget 
 notifier->setPauseDuration(5000);
